@@ -2,6 +2,8 @@ Hello and welcome to back up config repo and practice projects. I’m known as p
 I interested in AI and ML when it comes to algo's like KNN and the rest and how they can be used in financial markets. 
 I am honing my skills in bash scripting, pyhton, JS, NodeJS, and other Backend and front end web frameorks to gain employment and become a better web coder.
 I am already a master in Linux System Admin Roles and have been using linux as a full time OS since 2009. 
+I don't like the company M$ that owns G1tHub. So I don't upload my stuff here. 
+I am ineterested in CoPilot AI auto coder extention. So thx M$ for letting me try it out after waiting a month on the wait list!
 
 - 📫 Reach me at shi88ihs @ ya h00 or mw  @ wegrid.org
 
